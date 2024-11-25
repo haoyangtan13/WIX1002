@@ -1,0 +1,12 @@
+package l1q2;
+
+public class L1Q2 {
+
+    public static void main(String[] args) {
+        System.out.println("Full name:");
+        System.out.println("Matric number:");
+        System.out.println("Address:");
+        System.out.println("Email:");
+        System.out.println("Contact:");
+   }
+}
