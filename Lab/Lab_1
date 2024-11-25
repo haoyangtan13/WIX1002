@@ -1,1 +1,12 @@
+package l1q2;
 
+public class L1Q2 {
+
+    public static void main(String[] args) {
+        System.out.println("Full name:Tan Hao Yang");
+        System.out.println("Matric number:24068638");
+        System.out.println("Address:5,Jalan Seri Austin 3/46,Taman Seri Austin 1");
+        System.out.println("Email:htan95404@gmail.com");
+        System.out.println("Contact:011-10939632");
+   }
+}
